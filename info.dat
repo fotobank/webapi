@@ -1,0 +1,17 @@
+<?php
+
+/**
+ * Плагин WebAPI для Ruxe Engine
+ *
+ * Требования: Ruxe Engine 1.8+, PHP 5.4+, поддержка JSON, mbstring
+ * Автор: Ахрамеев Денис Викторович
+ * Сайт: http://ahrameev.ru
+ */
+
+$name        = "WebAPI";
+$version     = "1.0";
+$description = "Внешнее API для работы с Android приложением <a href=\"http://ahrameev.ru/project/ruxe-engine-monitor.html\" target=\"_blank\">Ruxe Engine Monitor</a>.<br>
+Совместимость: <font color=\"green\"><strong>Ruxe Engine 1.9, PHP 5.4</strong></font>";
+$author      = "Ахрамеев Денис Викторович";
+$site        = "http://ahrameev.ru/";
+$addaction   = 1;
